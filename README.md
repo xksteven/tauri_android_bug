@@ -12,3 +12,8 @@ This template should help get you started developing with Tauri and SvelteKit in
 npm run tauri dev
 ```
 
+## Bugged on android
+
+```
+npm run tauri android dev
+```
